@@ -39,7 +39,9 @@ img{
 }
 .link:hover{
     background: #c7e46d;
-    color:#141414;
+}
+.link:hover p{
+    color: #141414;
 }
 .lnk{
     margin-top: 10%;
