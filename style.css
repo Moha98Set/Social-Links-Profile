@@ -19,7 +19,7 @@ img{
 }
 .main p{
     font-size: .9rem;
-    font-weight: 400;
+    font-weight: 300;
     color:rgba(255,255,255,.9)
 }
 .link{
@@ -41,9 +41,16 @@ img{
     background: #c7e46d;
     color:#141414;
 }
+.lnk{
+    margin-top: 10%;
+}
 h1{
-    color:white;    
+    color:white;
+    font-size: 1.8rem;
+    font-weight: 500;
 }
 h4{
+    font-size: .9rem;
     color:#c7e46d;
+    margin-top: -3%;
 }
